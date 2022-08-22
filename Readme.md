@@ -9,7 +9,7 @@ Hope you like my project !! And as it is not responsive it works well in laptop 
   - CSS - Cascading Style Sheet
 
 ## Demo
-![page-img](./assets/page-img.PNG)
+![page-img](./assets/page_img.PNG)
 
 ## Run Locally
 
