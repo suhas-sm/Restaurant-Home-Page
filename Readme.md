@@ -1,5 +1,5 @@
 
-# Portfolio-Style Template Project [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)]
+# Portfolio-Style Template Project
 
 This is basically a one pager Restaurant project made in HTML/CSS.
 Hope you like my project !! And as it is not responsive it works well in laptop screen and please zoom in in case of other device.
